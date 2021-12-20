@@ -8,4 +8,4 @@ This is another study project that is similar to classic To-do-list. In this app
 ![alt text](filter.png "filter")
 
  The summary information about employees is shown in the header of applicatin interface, and refreshes when list is employees changing.
-![alt text](screenshots/header.png "header")
+![alt text](header.png "header")
